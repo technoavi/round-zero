@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="379.1" height="471.2" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" enable-background="new 0 0 379.1 471.2" version="1.1" xml:space="preserve">
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#1e40af" height="415" id="svg_5" stroke="null" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" width="330" x="29.4" y="30.65"/>
+  <path d="m298.49,131c-17.89,-17.1 -45.53,-28.1 -76.49,-28.1l-2.41,0c-30.96,0 -58.6,11 -76.49,28.1c-13.37,12.8 -21.41,29 -21.41,46.6l0,154.4c0,17.6 8.04,33.8 21.41,46.6c17.89,17.1 45.53,28.1 76.49,28.1l2.41,0c30.96,0 58.6,-11 76.49,-28.1c13.37,-12.8 21.41,-29 21.41,-46.6l0,-154.5c0,-17.6 -8.04,-33.7 -21.41,-46.5zm-73.87,254.9l-0.5,0c-1.01,0 -2.11,0 -3.12,-0.1c-0.2,0 -0.4,0 -0.5,0c-1.01,0.1 -2.01,0.1 -3.12,0.1l-0.5,0c-40.81,-0.2 -73.87,-27.7 -73.87,-61.6l0,-139.1c0,-33.9 33.07,-61.4 73.87,-61.6l0.5,0c1.01,0 2.01,0 3.12,0.1c0.2,0 0.4,0 0.5,0c1.01,-0.1 2.01,-0.1 3.12,-0.1l0.5,0c40.81,0.2 73.87,27.7 73.87,61.6l0,139.1c0,33.8 -33.07,61.3 -73.87,61.6z" fill="#ffffff" id="svg_2" stroke-width="0" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+  <line fill="none" id="svg_3" stroke="null" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" x1="17.4" x2="23.4" y1="10.65" y2="140.65"/>
+  <rect fill="#1e40af" height="0" id="svg_4" stroke="null" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" width="0" x="20.4" y="8.65"/>
+  <path d="m220.5,43l0,32.6c-3.4,-0.3 -6.9,-0.4 -10.4,-0.4c-59.4,0 -107.5,43.2 -107.5,96.4l0,224.5l-30.9,0l0,-236.5c0,-27.5 11.6,-52.8 30.9,-72.8c25.9,-26.7 65.8,-43.9 110.6,-43.9c2.5,0 4.9,0 7.3,0.1z" fill="#ffffff" id="svg_1" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+ </g>
+</svg>
